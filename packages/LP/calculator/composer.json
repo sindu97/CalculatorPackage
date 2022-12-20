@@ -1,0 +1,10 @@
+{
+    "name": "lp/calculator",
+    "authors": [
+        {
+            "name": "secureweb16",
+            "email": "secureweb16@gmail.com"
+        }
+    ],
+    "require": {}
+}
